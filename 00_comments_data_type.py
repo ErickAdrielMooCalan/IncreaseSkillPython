@@ -1,7 +1,7 @@
-#Coment 1
+#Comment 1
 
 '''
-    Coment 2
+    Comment 2
 '''
 
 #Check the data type
